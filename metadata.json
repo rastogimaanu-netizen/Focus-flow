@@ -1,0 +1,8 @@
+{
+  "name": "FocusFlow",
+  "description": "Premium student productivity dashboard for daily planning, Pomodoro focus sessions, habit tracking, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
